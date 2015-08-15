@@ -1,2 +1,2 @@
 # hello-world
-<script src="https://gist.github.com/FotechDog/631c911b158fc46ceb0e.js"></script>
+<script src="https://gist.github.com/FotechDog/f9c0d58d6aa43ebaf477.js"></script>
